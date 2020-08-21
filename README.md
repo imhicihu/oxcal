@@ -6,6 +6,7 @@
 
 * 
 * This repo is a living document that will grow and adapt over time
+![graphics.jpg](https://bitbucket.org/repo/48e55Ae/images/3380911117-oxcal.jpg)
 
 ### What is this repository for? ###
 
@@ -45,7 +46,7 @@
 * Writing tests
     - 
 * Code review
-    - You can submit a PR to enhance this repo (being typo, minimize steps, _et alia_)
+    - You can submit a PR to enhance this repo (found typos, minimize steps to reproduce, _et alia_)
 * Other guidelines
     - There is no other guidelines
      
