@@ -4,30 +4,26 @@
 
 # RATIONALE #
 
-* 
+* Checklist or mere deployment procedures to run Oxcal in a Microsoft Windows environment
 * This repo is a living document that will grow and adapt over time
 ![graphics.jpg](https://bitbucket.org/repo/48e55Ae/images/3380911117-oxcal.jpg)
 
 ### What is this repository for? ###
 
 * Quick summary
-    - 
+    - Download, unzip, deploy and run Oxcal
 * Version 1.01
 
 ### How do I get set up? ###
 
-* Summary of set up
-    - 
-* Configuration
-    - 
+* Summary of set up & configuration
+    - Just check our [checklist](https://bitbucket.org/imhicihu/oxcal/src/master/snippet.md)
 * Dependencies
-    - 
+    - [Node.js](https://nodejs.org/) 
 * Database configuration
-    - 
-* How to run tests
-    - 
+    - There is no database to handle. 
 * Deployment instructions
-    - 
+    - You can check our original [snippet](https://bitbucket.org/imhicihu/workspace/snippets/gA8XGp/oxcal-running-in-local-mode)
 
 ### Source ###
 
@@ -43,8 +39,6 @@
 
 ### Contribution guidelines ###
 
-* Writing tests
-    - 
 * Code review
     - You can submit a PR to enhance this repo (found typos, minimize steps to reproduce, _et alia_)
 * Other guidelines
