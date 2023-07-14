@@ -1,12 +1,12 @@
-![internaluse-green](https://bitbucket.org/repo/ekyaeEE/images/3847436881-internal_use_stable.png)
-![status-archived](https://bitbucket.org/repo/ekyaeEE/images/3278295154-status_archived.png)
-![issues-closed](https://bitbucket.org/repo/ekyaeEE/images/1555006384-issues_closed.png)
+![internaluse-green](images/3847436881-internal_use_stable.png)
+![status-archived](images/3278295154-status_archived.png)
+![issues-closed](images/1555006384-issues_closed.png)
 
 # RATIONALE #
 
 * Checklist or mere deployment procedures to run Oxcal in a Microsoft Windows environment
 * This repo is a living document that will grow and adapt over time
-![graphics.jpg](https://bitbucket.org/repo/48e55Ae/images/3380911117-oxcal.jpg)
+![graphics.jpg](images/3380911117-oxcal.jpg)
 
 ### What is this repository for? ###
 
@@ -17,7 +17,7 @@
 ### How do I get set up? ###
 
 * Summary of set up & configuration
-    - Just check our [checklist](https://bitbucket.org/imhicihu/oxcal/src/master/snippet.md)
+    - Just check our [checklist](snippet.md)
 * Dependencies
     - [Node.js](https://nodejs.org/) 
 * Database configuration
