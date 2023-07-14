@@ -21,7 +21,7 @@
 * Dependencies
     - [Node.js](https://nodejs.org/) 
 * Database configuration
-    - There is no database to handle. 
+    - There is no database to handle
 * Deployment instructions
     - You can check our original [snippet](https://bitbucket.org/imhicihu/workspace/snippets/gA8XGp/oxcal-running-in-local-mode)
 
@@ -53,7 +53,7 @@
 
 ### Code of Conduct
 
-* Please, check our [Code of Conduct](https://bitbucket.org/imhicihu/oxcal/src/master/code_of_conduct.md)
+* Please, check our [Code of Conduct](code_of_conduct.md)
 
 ### Legal ###
 
@@ -61,4 +61,4 @@
 
 ### License ###
 
-* The content of this project itself is licensed under the ![MIT Licence](https://bitbucket.org/repo/ekyaeEE/images/2049852260-MIT-license-green.png)
+* The content of this project itself is licensed under the ![MIT Licence](images/2049852260-MIT-license-green.png)
